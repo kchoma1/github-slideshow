@@ -49,3 +49,8 @@ w pliku settings.py dodajemy linijke
 
 
 Tym sposobem mamy zainstalowe Django :)
+
+
+Odpalenie serwerka na wszystkich interfejsach (by default Django chodzi na localhost port 8000
+
+**python3 manage.py runserver [ip address]:[port]**
