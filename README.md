@@ -19,6 +19,6 @@ python3 -m django --version
 
 5. Konfiguracja pliku
 w pliku settings.py dodajemy linijke
-**ALLOWED_HOSTS = ['\*\']
+**ALLOWED_HOSTS = ['\*\']**
 
 Tym sposobem mamy zainstalowe Django :)
